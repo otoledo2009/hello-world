@@ -6,3 +6,5 @@ USA
 Canada
 Japan
 China
+Italy
+Spain
