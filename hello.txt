@@ -2,3 +2,5 @@ Peru
 Colombia
 Argentina
 Brasil
+USA
+Canada
